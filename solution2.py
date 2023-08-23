@@ -7,7 +7,6 @@ def rotate(arr, d):
 
     print(arr)
 
-
 m_array = [1, 2, 3, 4, 5, 6, 7]
 d = 2
 rotate(m_array, d)
